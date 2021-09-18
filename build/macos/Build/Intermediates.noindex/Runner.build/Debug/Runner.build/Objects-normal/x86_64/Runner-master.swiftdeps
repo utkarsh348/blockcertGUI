@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ccbd2891d9b137889ca8c3494af3c668"
+build_time: [1631987144, 291405000]
+inputs:
+  "/Users/utkarshgupta/Documents/DevWork/blockcert_gui/frontend/macos/Runner/MainFlutterWindow.swift": [1623437044, 0]
+  "/Users/utkarshgupta/Documents/DevWork/blockcert_gui/frontend/macos/Runner/AppDelegate.swift": [1623437044, 0]
+  "/Users/utkarshgupta/Documents/DevWork/blockcert_gui/frontend/macos/Flutter/GeneratedPluginRegistrant.swift": [1631987110, 745783513]

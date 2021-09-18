@@ -1,0 +1,58 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "93b73906ed5dd4e1a938b94a2f8aae44a26d6e580d3222b86d62fb80ec380c14"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Build/Products",
+      "derivedDataPath" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos",
+      "indexDataStoreFolderPath" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "COMPILER_INDEX_STORE_ENABLE" : "NO",
+          "OBJROOT" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Build/Intermediates.noindex",
+          "SYMROOT" : "/Users/utkarshgupta/Documents/DevWork/BlockCert2/blockcert/blockcert_gui/frontend/build/macos/Build/Products"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
